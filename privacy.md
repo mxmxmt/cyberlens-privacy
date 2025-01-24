@@ -2,5 +2,3 @@
 
 CyberLens does not collect, store, or share any user data. All processing is performed locally within the user’s browser. External services are accessed via HTTPS for threat intelligence lookups, but no personal or sensitive information is transmitted or stored.
 
-**Contact Us**  
-If you have any questions about this privacy policy, contact us at: support@cyberlens.com.
